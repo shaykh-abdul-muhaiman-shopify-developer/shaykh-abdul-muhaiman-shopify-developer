@@ -1,75 +1,78 @@
-# Hey, I'm Shaykh Abdul Muhaiman 👋
+# Shaykh Abdul Muhaiman
 
-### Shopify Theme Developer | Frontend Developer
+### Senior Shopify Developer · Custom Storefronts · Admin API Integrations
 
-I specialize in building custom Shopify storefronts with a strong focus on user experience, performance, responsive design, and clean, maintainable code.
+I build Shopify storefronts and custom integrations with Liquid, JavaScript and the Shopify Admin API. My work covers theme architecture, product and cart experiences, responsive interfaces, and storefront performance.
 
-With 4+ years of experience in Shopify development, I turn design concepts into functional eCommerce experiences using Liquid, JavaScript, HTML, and CSS.
+[Portfolio](https://sheikhmuhaiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/) · [Explore my projects](https://github.com/shaykh-abdul-muhaiman-shopify-developer?tab=repositories)
 
-## 🚀 About Me
+**Open to remote Shopify development opportunities and project collaboration.**
 
-- 🛍️ Specialized in Shopify theme development and customization.
-- 🧩 Building custom sections, blocks, and reusable Liquid components.
-- 🛒 Experienced with product pages, variants, cart drawers, and dynamic storefront functionality.
-- 🌐 Working with multilingual storefronts, including English/Arabic and LTR/RTL layouts.
-- ⚡ Focused on frontend performance, responsive design, and user experience.
-- 🔌 Experienced in third-party Shopify app integrations.
-- 🤝 Interested in collaboration, problem-solving, and continuous learning.
+## Featured developer tool
 
-## 🛠️ Skills & Technologies
+### [Shopify Admin API Token Generator](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-admin-api-token-generator)
 
-### Shopify & eCommerce
-- Shopify Liquid
-- Shopify Theme Development
-- Custom Sections & Blocks
-- Theme Customization
-- Product Variants & Cart Functionality
-- Third-Party App Integrations
+A guided OAuth helper for developers obtaining an Admin API access token for their own custom app.
 
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Tailwind CSS
-- Bootstrap
-- Responsive Web Design
+- Three-field connection form: store domain, Client ID and Client Secret.
+- Copyable token and a list of granted permissions.
+- Setup guide, API testing examples, security notes and categorized FAQs.
+- Built with Next.js. The hosted tool is under active development; the repository currently publishes its documentation.
 
-### Tools & Workflow
-- Git & GitHub
-- Visual Studio Code
-- Shopify CLI
-- Chrome DevTools
-- Figma
+**[Try the hosted tool →](https://shopify-token-tool-kohl.vercel.app/)** · [Read the setup guide](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-admin-api-token-generator/blob/main/docs/SETUP.md)
 
-## 💼 Selected Storefront Projects
+## What I work on
 
-Here are selected storefronts associated with my professional project experience:
+| Area | Work |
+| --- | --- |
+| Shopify themes | Custom sections and blocks, Liquid templates, theme customization |
+| Product experiences | Variant selectors, media galleries, product cards and quick-view interactions |
+| Cart experiences | Cart drawers, interactive cart features and app integrations |
+| Custom integrations | Shopify Admin API, app authentication and backend-connected features |
+| Storefront performance | Responsive image markup, loading behavior, CSS and JavaScript improvements |
+| Responsive and multilingual UI | Mobile layouts, English/Arabic storefronts and LTR/RTL support |
+| Frontend development | JavaScript, HTML, CSS and Next.js interfaces |
+
+## Technical toolkit
+
+**Shopify:** Liquid · Theme development · Sections and blocks · Admin API · OAuth · Shopify CLI
+
+**Frontend:** JavaScript · HTML · CSS · Next.js · Tailwind CSS · Bootstrap · jQuery
+
+**Workflow:** Git · GitHub · VS Code · Chrome DevTools · Figma
+
+## Public projects
+
+| Repository | Purpose | Status |
+| --- | --- | --- |
+| [Shopify Admin API Token Generator](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-admin-api-token-generator) | OAuth helper documentation and hosted tool | Working hosted flow; active development |
+| [Shopify Reusable Sections](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-reusable-sections) | Organizing reusable Shopify theme components | Early scaffold; components are not ready for installation |
+
+I distinguish working tools from early scaffolds so developers know what they can use today.
+
+## Selected storefront experience
+
+Selected storefronts associated with my professional project experience:
 
 - [Christian Louboutin UAE](https://ae.christianlouboutin.com/)
 - [Juliette Boulangerie](https://juliette-boulangerie.ch/)
 - [Ishaya](https://ishaya.fr/)
 - [RSVP by Anastasia](https://rsvpbyanastasia.com/)
 
-My contributions vary by project. These links showcase the storefronts, not ownership of the businesses.
+Contributions vary by project. These links identify storefronts associated with my experience; they do not imply ownership, exclusive authorship, or endorsement. Client source code and private repositories are not published here.
 
-## 🎯 What I Focus On
+## How I approach development
 
-- Custom Shopify storefront experiences
-- Reusable and maintainable theme architecture
-- Interactive navigation, mega menus, and accordions
-- Product pages, variant selectors, and cart enhancements
-- Multilingual experiences with RTL/LTR support
-- Responsive layouts and performance optimization
+- Build around the actual layout and user interaction.
+- Keep Liquid markup readable and avoid unnecessary wrappers.
+- Use reusable components with meaningful class names.
+- Treat responsive behavior, accessibility and performance as part of implementation.
+- Keep Admin API credentials in trusted backend configuration.
 
-## 🌐 Connect With Me
+## Work with me
 
-- **Portfolio:** [sheikhmuhaiman.vercel.app](https://sheikhmuhaiman.vercel.app/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shaykh-abdul-muhaiman-3ab519266)
-- **GitHub:** [Explore my repositories](https://github.com/shaykh-abdul-muhaiman)
+For Shopify theme work, custom storefront features or API integrations:
 
----
+**[View my portfolio](https://sheikhmuhaiman.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/)**
 
-⭐ Thanks for visiting my profile!
-
-*Building better Shopify experiences, one storefront at a time.* 🚀
+If a public tool helps you, feedback, a documentation contribution or a voluntary repository star is welcome.
