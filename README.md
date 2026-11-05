@@ -4,7 +4,7 @@
 
 I build Shopify storefronts and custom integrations with Liquid, JavaScript and the Shopify Admin API. My work covers theme architecture, product and cart experiences, responsive interfaces, and storefront performance.
 
-[Portfolio](https://sheikhmuhaiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/) · [Explore my projects](https://github.com/shaykh-abdul-muhaiman-shopify-developer?tab=repositories)
+[Portfolio](https://shaykhabdulmuhaiman.com/) · [LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/) · [Explore my projects](https://github.com/shaykh-abdul-muhaiman-shopify-developer?tab=repositories)
 
 **Open to remote Shopify development opportunities and project collaboration.**
 
@@ -73,6 +73,6 @@ Contributions vary by project. These links identify storefronts associated with 
 
 For Shopify theme work, custom storefront features or API integrations:
 
-**[View my portfolio](https://sheikhmuhaiman.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/)**
+**[View my portfolio](https://shaykhabdulmuhaiman.com/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/)**
 
 If a public tool helps you, feedback, a documentation contribution or a voluntary repository star is welcome.
