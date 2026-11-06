@@ -4,7 +4,7 @@
 
 I build Shopify storefronts and custom integrations with Liquid, JavaScript and the Shopify Admin API. My work covers theme architecture, product and cart experiences, responsive interfaces, and storefront performance.
 
-[Portfolio](https://shaykhabdulmuhaiman.com/) · [LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/) · [Explore my projects](https://github.com/shaykh-abdul-muhaiman-shopify-developer?tab=repositories)
+[Portfolio](https://shaykhabdulmuhaiman.com/) · [Developer tools](https://shaykhabdulmuhaiman.com/tools) · [LinkedIn](https://www.linkedin.com/in/shaykh-abdul-muhaiman-shopify-developer/) · [Explore my projects](https://github.com/shaykh-abdul-muhaiman-shopify-developer?tab=repositories)
 
 **Open to remote Shopify development opportunities and project collaboration.**
 
@@ -19,7 +19,7 @@ A guided OAuth helper for developers obtaining an Admin API access token for the
 - Setup guide, API testing examples, security notes and categorized FAQs.
 - Built with Next.js. The hosted tool is under active development; the repository currently publishes its documentation.
 
-**[Try the hosted tool →](https://shopify-token-tool-kohl.vercel.app/)** · [Read the setup guide](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-admin-api-token-generator/blob/main/docs/SETUP.md)
+**[Try the hosted tool →](https://shaykhabdulmuhaiman.com/tools/shopify-token-generator)** · [Read the setup guide](https://github.com/shaykh-abdul-muhaiman-shopify-developer/shopify-admin-api-token-generator/blob/main/docs/SETUP.md)
 
 ## What I work on
 
